@@ -31,3 +31,7 @@ Hello! I'm Ayush Singh, the Data Scientist at Replayed, Founder - SecondBrainLab
 
 All the required resources, additional reading materials, and tools links are provided in the course modules. Ensure to check them out to enhance your learning and practical application of the concepts.
 
+
+## ZenML Basics
+Refer [zenml.git]https://github.com/zenml-io/zenml.git
+
